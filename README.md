@@ -1,2 +1,2 @@
 # yashthakur1.github.io
-bitroot-coming-sson
+bitroot-coming-soon
