@@ -35,7 +35,9 @@ html{
 	background-color: #08233e;
 }
 
-
+.borderless{
+border:none;
+}
 
 
 body{
