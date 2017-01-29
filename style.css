@@ -97,6 +97,7 @@ background-size: cover;
 	margin-top: -20px;
 }
 .button-apply {
+  border:none;
   margin: auto;
   background: #86d632;
   width: 400px;
