@@ -111,6 +111,7 @@ background-size: cover;
 }
 
 .button-apply {
+  border:none;
   margin: auto;
   background: #86d632;
   width: 100%;
