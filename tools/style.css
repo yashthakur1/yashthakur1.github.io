@@ -113,6 +113,7 @@ background-size: cover;
 .button-apply {
   border:none;
   margin: auto;
+  box-shadow: 1px 5px 20px rgba(0, 0, 0, 0.5);
   background: #86d632;
   width: 100%;
   border-radius: 30px;
